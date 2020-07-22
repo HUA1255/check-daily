@@ -1,4 +1,4 @@
-# FuckDailyCP
+# FuckDailyCP（转载自https://gitee.com/Finch1/FuckDailyCP  ！！！）
 转载自https://gitee.com/Finch1/FuckDailyCP  ！！！
 仅做交流
 #### 简介
